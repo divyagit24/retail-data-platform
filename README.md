@@ -267,7 +267,7 @@ Top 5 Products by Revenue
 ## 👩‍💻 Author
 
 **Divya P Jagadeesan**
-Senior Data Engineer | Snowflake SME | 12+ Years
+
 
 [LinkedIn](https://www.linkedin.com/in/divya-pj/) • [GitHub](https://github.com/divyagit24)
 
